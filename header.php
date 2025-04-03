@@ -7,7 +7,7 @@
     <body>
         <header>
             <a href="<?php echo site_url(); ?>">
-                <img class="icon" src="<?php echo get_theme_file_uri('images/icontsvg.svg'); ?>">
+                <img class="icon" src="<?php echo get_theme_file_uri('images/icon2.svg'); ?>">
             </a>
             <?php 
             wp_nav_menu(array(
